@@ -6,8 +6,9 @@ title{
 }
 
 h1{
-    color: aliceblue;
+    color:#FC7959;
     font-size: xx-large;
+    background-color: white;
 }
 p{
     font-size: x-large;
@@ -15,4 +16,8 @@ p{
 }
 title{
     font-size: xx-large;
+}
+h2{
+    color: #EA8F75;
+    background-color: white;
 }
