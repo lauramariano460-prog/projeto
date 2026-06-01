@@ -1,0 +1,41 @@
+title{
+    font-size: xx-large;
+}
+    body {
+    background-color: rgb(175, 101, 101);
+}
+
+h1{
+    color:#FC7959;
+    font-size: xx-large;
+    background-color: white;
+    border-radius: 40px;
+    
+}  
+    
+p{
+    font-size: x-large;
+    color: white;
+    padding: 20px;
+}
+title{
+    font-size: xx-large;
+}
+h2{
+    color: #EA8F75;
+    background-color: white
+    border-radius: 40px;
+    font-size: xx-large;
+}
+header{
+    background-color: burlywood;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+
+li{
+    padding: 4px;    
+    line-height: 18px;
+    border-radius: 4px;
+}
